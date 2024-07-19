@@ -2,7 +2,7 @@ Here's the revised version for a GitHub README:
 
 ---
 
-## Dependencies File
+## Part 1 :Defin dependencies File
 
 ## Modules to Develop:
 1. User Management
@@ -162,3 +162,8 @@ Here's the revised version for a GitHub README:
 - **Implement Authentication and Authorization:**
   - Implement token-based (JWT) or OAuth authentication mechanisms. BCK
   - Manage permissions and roles to control access to various parts of the API using middleware in Express.js. BCK
+ 
+#Part 2 : Managing Sprints via Kanban Sum(Product Backlog)
+
+MVP Functianlities. Kanban Board.
+ 
