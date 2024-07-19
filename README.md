@@ -81,84 +81,84 @@ Here's the revised version for a GitHub README:
 ### User Management:
 **Registration and Login:**
 - **Expand the Registration and Login Form:**
-  - Create user interfaces for registration and login.
-  - Implement validation of form fields (email, password).
+  - Create user interfaces for registration and login. FR BCK
+  - Implement validation of form fields (email, password). BCK
 
 - **Configure Authentication:**
-  - Use libraries like JWT to handle user authentication.
-  - Store session tokens securely.
+  - Use libraries like JWT to handle user authentication. BCK
+  - Store session tokens securely. BCK
 
 - **Managing Mistakes and Successes:**
-  - Show appropriate messages on error or success during registration or login.
+  - Show appropriate messages on error or success during registration or login. FR BCK
 
 ### Profile Management:
 **Patient Profiles:**
 - **Create the Profile Interface:**
-  - Develop a page to display and update patients' personal information.
+  - Develop a page to display and update patients' personal information. FR BCK
 
 - **Implement Profile Update:**
-  - Ensure validation and storage of updated information.
-  - Handle errors and update confirmations.
+  - Ensure validation and storage of updated information. BCK
+  - Handle errors and update confirmations. BCK
 
 **Doctor Profiles:**
 - **Create the Profile Interface:**
-  - Develop a page to display and update doctors' professional details.
+  - Develop a page to display and update doctors' professional details. FR BCK
 
 - **Implement Profile Update:**
-  - Ensure validation and storage of updated information.
-  - Handle errors and update confirmations.
+  - Ensure validation and storage of updated information. BCK
+  - Handle errors and update confirmations. BCK
 
 ### Appointment Scheduling:
 **Search and Filter:**
 - **Developing the Search System:**
-  - Create a React interface for patients to search for doctors using filters like specialty, location, availability, and rating.
+  - Create a React interface for patients to search for doctors using filters like specialty, location, availability, and rating. FR BCK
 
 **Booking Appointments:**
 - **Create the Booking Interface:**
-  - Develop an interface for viewing doctor availability and booking appointments.
-  - Validate and store booking information.
+  - Develop an interface for viewing doctor availability and booking appointments. FR BCK
+  - Validate and store booking information. FR BCK
 
 **Rescheduling and Cancellation:**
 - **Implement Rescheduling and Cancellation:**
-  - Allow patients to reschedule or cancel appointments.
-  - Send automated notifications to doctors about changes.
+  - Allow patients to reschedule or cancel appointments. FR BCK
+  - Send automated notifications to doctors about changes. FR BCK
 
 ### Appointment Management:
 **Doctor Dashboard:**
 - **Develop the Doctor Dashboard:**
-  - Create a dashboard for doctors to view and manage upcoming appointments.
-  - Implement functionalities for approving, declining, or suggesting alternative times for appointments.
+  - Create a dashboard for doctors to view and manage upcoming appointments. FR BCK
+  - Implement functionalities for approving, declining, or suggesting alternative times for appointments. FR BCK
 
 **Appointment Details:**
 - **Create the Appointment Details Page:**
-  - Develop a page to display detailed information about each appointment.
-  - Enable doctors to add notes and observations.
+  - Develop a page to display detailed information about each appointment. FR BCK
+  - Enable doctors to add notes and observations. FR BCK
 
 ### Notification System:
 **Send Notifications:**
 - **Appointment Reminders:**
-  - Generate and send automated reminders to patients and doctors.
+  - Generate and send automated reminders to patients and doctors. FR BCK
 
 - **Status Updates:**
-  - Notify patients and doctors of changes in appointment status (confirmed, canceled, rescheduled).
+  - Notify patients and doctors of changes in appointment status (confirmed, canceled, rescheduled). FR BCK
 
 ### Feedback and Rating System:
 **Client to Doctor Feedback:**
 - **Develop Feedback Interface:**
-  - Create an interface for patients to rate and review doctors after appointments.
-  - Allow doctors to view and respond to feedback.
+  - Create an interface for patients to rate and review doctors after appointments. FR BCK
+  - Allow doctors to view and respond to feedback. FR BCK
 
 ### Administrative Control:
 **User Management:**
 - **Develop Admin Tools:**
-  - Create tools for admins to manage user accounts (activation, deactivation, role assignments).
+  - Create tools for admins to manage user accounts (activation, deactivation, role assignments). FR BCK
 
 **Appointment Oversight:**
 - **Monitor and Manage Appointments:**
-  - Develop functionalities for admins to monitor and manage appointments across the platform.
+  - Develop functionalities for admins to monitor and manage appointments across the platform. FR BCK
 
 ### External API Integration:
 **Secure API Communication:**
 - **Implement Authentication and Authorization:**
-  - Implement token-based (JWT) or OAuth authentication mechanisms.
-  - Manage permissions and roles to control access to various parts of the API using middleware in Express.js.
+  - Implement token-based (JWT) or OAuth authentication mechanisms. BCK
+  - Manage permissions and roles to control access to various parts of the API using middleware in Express.js. BCK
